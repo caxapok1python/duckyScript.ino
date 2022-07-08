@@ -1,0 +1,17 @@
+REM ----Title: Hello World ducky script
+REM ----Description: This is a simple of ducky script that opens notepad and prints "Hello World".
+REM ----Author: caxapok
+REM ----Date: 08-07-2022
+REM ----Version: 1.0
+
+REM ----Instructions:
+DEFAULT_DELAY 25
+
+REM ----1. Open notepad.
+GUI r
+STRING notepad
+ENTER
+
+REM ----2. Print "Hello World" in the notepad.
+STRING Hello World
+ENTER
