@@ -45,7 +45,7 @@ def get_key_code(key):
     if SPECIAL_BUTTONS.get(str(key).lower()):
         return SPECIAL_BUTTONS[str(key).lower()]
     else:
-        return key
+        return f'\"{key}\"'
 
 
 def parse_line(line):
