@@ -17,7 +17,7 @@ brew install python3
 ```
 
 {% hint style="info" %}
-if you don't have `brew` install it.
+if you don't have `brew` [install](https://docs.brew.sh/Installation) it.
 {% endhint %}
 
 After instalation check version agait and proceed to the next step.
