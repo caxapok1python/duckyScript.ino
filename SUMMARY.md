@@ -2,6 +2,8 @@
 
 * [What is Ducky Script converter?](README.md)
 
-## Group 1
+## Install
 
-* [Install](group-1/install.md)
+* [Windows](install/windows.md)
+* [Linux](install/linux.md)
+* [MacOS](install/macos.md)
