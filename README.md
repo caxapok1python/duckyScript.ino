@@ -24,9 +24,9 @@ You can [install](broken-reference) it in any platforms:
 
 &#x20;After install see easy features:
 
-* [supported-devices.md](getting-started/supported-devices.md "mention")
-* [first-steps.md](getting-started/first-steps.md "mention")
-* [your-payload.md](getting-started/your-payload.md "mention")
+* [Supported devices](getting-started/supported-devices.md)
+* [First steps](getting-started/first-steps.md)
+* [Your first payload](getting-started/your-payload.md)
 
 ### GUIDES
 

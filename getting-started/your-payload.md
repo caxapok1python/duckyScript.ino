@@ -45,4 +45,4 @@ python encoder.py -d open_cmd/payload.txt -i open_cmd/open_cmd.ino
 
 ### Than load your script to Arduino
 
-Perform similar actions to those on the previous [page](first-steps.md).
+Perform similar actions to those on the previous [page](first-steps.md#open-arduino-ide-and-and-load-program-to-your-atmega32u4).
