@@ -34,4 +34,8 @@ You can [install](broken-reference) it in any platforms:
 
 If you want more, I recommend visiting the rest of the pages:
 
-* [edit-configuration.md](guides/edit-configuration.md "mention")
+* [Edit configuration](guides/edit-configuration.md)
+
+#### Author
+
+**Telegram**: t.me/caxapok1python
