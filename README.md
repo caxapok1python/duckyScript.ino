@@ -2,6 +2,14 @@
 
 This script converts your Ducky Script to Arduino sketch. Also you can edit regular Arduino code to improve it for your ATmega32u4 board.
 
+
+
+### DISCLAIMER:
+
+Usage of this program is only allowed within boundaries of law. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
+
+
+
 No third-party libraries are required to work. **You can use pure Python.**
 
 {% hint style="info" %}
